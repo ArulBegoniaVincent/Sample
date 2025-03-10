@@ -1,1 +1,1 @@
-"New text file created" 
+"This is a new file" 
